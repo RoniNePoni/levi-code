@@ -1,0 +1,22 @@
+@import 'reset.css';
+@import 'main.css';
+@font-face {
+  font-family: 'montserrat-medium';
+  src: url('../fonts/Montserrat-Medium.ttf');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'montserrat-bold';
+  src: url('../fonts/Montserrat-Bold.ttf');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'montserrat-semibold';
+  src: url('../fonts/Montserrat-SemiBold.ttf');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sassy';
+  src: url('../fonts/SassyFrass-Regular.ttf');
+  font-style: normal;
+}
